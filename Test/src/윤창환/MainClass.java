@@ -105,7 +105,7 @@ public class MainClass extends JFrame implements ActionListener {
 		add(jp1, "North");
 		add(jp2, "Center");
 		add(jp3, "South");
-		setSize(800, 350);
+		setSize(800, 340);
 		setVisible(true);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 
